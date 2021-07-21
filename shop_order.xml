@@ -169,52 +169,52 @@
 
 
         <TextView
-            android:id="@+id/hot"
+            android:id="@+id/breakfast"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="#FFFFFF"
             android:gravity="center"
-            android:text="@string/hot"
+            android:text="@string/breakfast"
             android:textColor="@color/black"
             android:textSize="15sp" />
 
         <TextView
-            android:id="@+id/feature"
+            android:id="@+id/snack"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@color/white"
             android:gravity="center"
-            android:text="@string/feature"
+            android:text="@string/snack"
             android:textColor="@color/black"
             android:textSize="15sp" />
 
         <TextView
-            android:id="@+id/food1"
+            android:id="@+id/fruit"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@color/white"
             android:gravity="center"
-            android:text="@string/food1"
+            android:text="@string/fruit"
             android:textColor="@color/black"
             android:textSize="15sp" />
 
         <TextView
-            android:id="@+id/food2"
+            android:id="@+id/drink"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@color/white"
             android:gravity="center"
-            android:text="@string/food2"
+            android:text="@string/drink"
             android:textColor="@color/black"
             android:textSize="15sp" />
 
         <TextView
-            android:id="@+id/food3"
+            android:id="@+id/dessert"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@color/white"
             android:gravity="center"
-            android:text="@string/food3"
+            android:text="@string/dessert"
             android:textColor="@color/black"
             android:textSize="15sp" />
     </LinearLayout>

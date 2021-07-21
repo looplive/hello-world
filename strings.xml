@@ -15,11 +15,11 @@
     <string name="order">点餐</string>
     <string name="back">返回</string>
     <string name="pay">去结算</string>
-    <string name="hot">热销</string>
-    <string name="feature">特色美食</string>
-    <string name="food1">全球美食</string>
-    <string name="food2">标签1</string>
-    <string name="food3">标签2</string>
+    <string name="breakfast">早餐</string>
+    <string name="snack">快餐</string>
+    <string name="fruit">水果</string>
+    <string name="drink">饮品</string>
+    <string name="dessert">甜点</string>
     <string name="comm_name">商品名称</string>
     <string name="price">商品价格</string>
 
